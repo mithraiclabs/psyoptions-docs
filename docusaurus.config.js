@@ -1,13 +1,13 @@
 module.exports = {
   title: "PsyOptions",
   tagline: "Trustless options protocol on Solana",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://github.com/mithraiclabs",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/PsyOps.svg",
   organizationName: "mithraiclabs", // Usually your GitHub org/user name.
-  projectName: "psyoptions", // Usually your repo name.
+  projectName: "psyoptions-docs", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "PsyOptions",
