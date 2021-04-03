@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    "Getting Started": ["intro"],
+    "Getting Started": ["intro", "glossary"],
     "Program Integration": ["program-integration-start"],
     "Client Integration": [
       "client-integration-overview",
