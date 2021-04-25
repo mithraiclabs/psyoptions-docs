@@ -29,7 +29,7 @@ As testing continues, here are some types of feedback we'd love to hear.
 
 ### User Interface/User Experience
 
-- Was navigating the site self explanatory? If not, what was confusing?
+- Was navigating the site self explanatory?
 - Any areas of improvement for trading options?
 - Any areas of improvement for initializing option markets?
 - Is it clear how to exercise or close positions?
