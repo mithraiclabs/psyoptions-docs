@@ -15,12 +15,16 @@ Sell a [Covered Put](./glossary.md#covered-put)
 
 Buy a [Put](./glossary.md#put)
 
-Sell [Covered Call](./glossary.md#covered-call)
+Sell a [Covered Call](./glossary.md#covered-call)
 
 #### Expect price to go up or down
 
 Straddle or strangle
 
 #### Expect price to stay the same
+
+Selling a [Covered Call](./glossary.md#covered-call)
+
+Selling a [Covered Put](./glossary.md#covered-put)
 
 Calendar spread
