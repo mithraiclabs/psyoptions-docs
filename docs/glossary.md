@@ -54,5 +54,4 @@ The last date where the option may be exercised.
 Exercise means to put into effect the right to buy or sell the [underlying asset](#underlying-asset) specified in an options contract. When a call option owner exercises their contract, they will buy the underlying assets from the option writer at the agreed upon [strike price](#strike-price). When a put option owner exercises their contract, they will sell the underlying asset to the option writer at the agreed upon strike price.
 
 #### IV
-Implied Volatility(IV) is an estimate of the volatility of the underlying asset that is derived from the market value of an option. It is essentially taking the bid and ask prices, and solving the black-scholes pricing model backwards to tell you what volatility input to the black-scholes would produce that bid or ask.
-
+Implied Volatility(IV) is an estimate of the volatility of the underlying asset that is derived from the market value of an option. It is essentially the market's forecast of a likely movement in an underlying asset's price
