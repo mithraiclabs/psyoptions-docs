@@ -14,6 +14,7 @@ Buyers of call options generally expect the [underlying asset](#underlying-asset
 Buying a call gives you the right, but not the obligation, to buy the [contract size](#contract-size) amount of underlying asset at the option's strike price. Price of the call option should increase as the price of the underlying asset increases.
 
 Selling a call option allows you to collect the premium while obligating you to sell a contract size amount of the underlying asset to the owner at the agreed-upon strike price if the owner of the contract chooses to exercise the contract.
+
 #### Put
 Buyers of put options generally expect the [underlying asset](#underlying-asset) to decrease in value, whereas sellers of puts expect an increase in value or remain the same.
 
@@ -51,6 +52,7 @@ The last date where the option may be exercised.
 
 #### Exercise
 Exercise means to put into effect the right to buy or sell the [underlying asset](#underlying-asset) specified in an options contract. When a call option owner exercises their contract, they will buy the underlying assets from the option writer at the agreed upon [strike price](#strike-price). When a put option owner exercises their contract, they will sell the underlying asset to the option writer at the agreed upon strike price.
+
 #### IV
 Implied Volatility(IV) is an estimate of the volatility of the underlying asset that is derived from the market value of an option. It is essentially taking the bid and ask prices, and solving the black-scholes pricing model backwards to tell you what volatility input to the black-scholes would produce that bid or ask.
 
