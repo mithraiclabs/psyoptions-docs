@@ -13,19 +13,19 @@ Buyers of call options generally expect the [underlying asset](#underlying-asset
 
 Buying a call gives you the right, but not the obligation, to buy the [contract size](#contract-size) amount of underlying asset at the option's strike price. Price of the call option should increase as the price of the underlying asset increases.
 
-Selling a call option allows you to collect the premium while obligating you to sell a contract size amount of the underlying asset to the owner at the agreed-upon strike price if the owner of the contract chooses to exercise the contract.
+Writing a covered call option allows you to collect the premium while obligating you to sell a contract size amount of the underlying asset to the owner at the agreed-upon strike price if the owner of the contract chooses to exercise the contract.
 
 #### Put
 Buyers of put options generally expect the [underlying asset](#underlying-asset) to decrease in value, whereas sellers of puts expect an increase in value or remain the same.
 
 Buying a put gives you the right, but not the obligation, to sell the [contract size](#contract-size) amount of underlying asset at the option's strike price. Price of the put option should increase as the price of the underlying asset decreases.
 
-Selling a put option allows you to collect the premium while obligating you to buy a contract size amount of the underlying asset from the owner at the agreed-upon strike price if the owner of the contract chooses to exercise the contract.
+Writing a secured put option allows you to collect the premium while obligating you to buy a contract size amount of the underlying asset from the owner at the agreed-upon strike price if the owner of the contract chooses to exercise the contract.
 
 #### Covered Call
 An option strategy composed of a short call option and long the same [underlying asset](#underlying-asset), generally used if you expect the underlying asset price to stay relatively flat or increase moderately. For example, you would mint/sell 1 SOL/USDC call while locking up 100 SOL as collateral for calls with [contract size](#contract-size) of 100.
 
-#### Covered Put
+#### Secured Put
 An option strategy composed of a short put option and short the same [underlying asset](#underlying-asset), generally used if you expect the underlying asset price to stay relatively flat or increase moderately. For example, you would mint/sell 1 SOL/USDC put while locking up 4000 (strike price * contract size) USDC as collateral for puts at [strike price](#strike-price) of 40 and [contract size](#contract-size) of 100.
 
 #### Underlying asset

@@ -9,7 +9,7 @@ slug: /options-strategies
 
 Buy a [Call](./glossary.md#call)
 
-Sell a [Covered Put](./glossary.md#covered-put)
+Sell a [Secured Put](./glossary.md#secured-put)
 
 #### Expect price to go down
 
@@ -25,6 +25,6 @@ Straddle or strangle
 
 Selling a [Covered Call](./glossary.md#covered-call)
 
-Selling a [Covered Put](./glossary.md#covered-put)
+Selling a [Secured Put](./glossary.md#secured-put)
 
 Calendar spread
