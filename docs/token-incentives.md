@@ -8,17 +8,17 @@ slug: /psy-token
 This document does its best to explain where PsyOptions needs community contributors 
 and how those contributions are rewarded.
 
-We are trying to foster an engaging and collaboritive community, join our 
+PsyOptions aims to foster an engaging and collaboritive community, join our 
 [discord](https://discord.com/invite/MgDdJKgZJc) or [telegram](https://t.me/psyoptions) 
-to get involved in the conversations! Note: Our core team is most active in Discord.
+to get involved in the conversations! Note: The core contributors are most active in Discord.
 
 ## Developer Contributions
 Contribute code, get PSY!
 
 ### Grants
 If you have an idea for some sort of protocol, UI Component, or anything else that is useful
-for the PsyOptions ecosystem please reach out to grants@psyoptions.io. We are actively looking
-to partner and reward developers that want to build with us. 
+for the PsyOptions ecosystem please reach out to grants@psyoptions.io. PsyOptions is actively 
+looking to partner and reward developers that want to build with us. 
 
 #### Examples
 
@@ -29,25 +29,59 @@ Any sort of structured product that leverages the PsyOptions protocol.
 An AMM that uses contracts from PsyOptions.
 
 ### Bounties
-Below is a list of bounties we are offering for developers in our community to help out. If you're
-interested in working on, have completed one, etc. please reachout to bounties@psyoptions.io so we
-can update accordingly!
+Below is a list of bounties PsyOptions is offering for developers in our community to help out. 
+If you're interested in working on, have completed one, etc. please reachout to 
+bounties@psyoptions.io so the list can update accordingly!
 
 | Bounty Title | Short Description | More Info | PSY Allocated |
 | ------------ | ----------------- | --------- | :-----------: |
 | Coming soon | Coming soon | Coming soon | 10,000 |
 
 ## DeFi Thought Leaders
-The initial team is filled with incredible engineers, but we are all retail traders. We have some ideas 
-on where PsyOptions should go, but this is a community lead project. We're hoping we can lean on the 
+The core contributors are incredible engineers, but are all retail traders. There are ideas 
+on where PsyOptions should go, but this is a community led project. PsyOptions leans on the 
 community to contribute feedback, ideas, and incredible visions about what the next iteration of 
-PsyOptions is. 
+PsyOptions should be. 
 
-If you want to get involved and help us work to improve PsyOptions, please join our 
+If you want to get involved and help improve PsyOptions, please join the 
 [discord](https://discord.com/invite/MgDdJKgZJc) and express your interest in becoming a 
-PsyOptions ThoughtLeader. If you spur some great converstaions you could land yourself in a private 
+PsyOptions _Thought Leader_. If you spur some great converstaions you could land yourself in a private 
 channel with other leaders and a nice chunk of PSY!
 
 ## Liquidity Mining
+The PsyOptions liquidity mining program is focused on incentivizing market makers to 
+provide liquidity on Serum’s order books at the best possible prices. Those that 
+price well and have orders filled will receive PSY tokens.
+
+PsyOptions is a complimentary protocol to Serum, so it has no hooks into actions that Serum handles.
+Beacuse of that, the PsyOptions Market Tracker will be used to monitor all Serum markets 
+where the base currency is minted from the PsyOptions protocol (i.e. a PsyOptions option contract 
+trading on Serum).
+
+### Phase 1
+Duration: about 3 months (13 weeks) after mainnet beta launch<br />
+Total Supply: 2,000,000<br />
+Weekly Reward Pool: ~153,846<br />
+
+At the end of every week a snapshot will be taken from the PsyOptions Market Tracker. It 
+will detail all contracts that trades on Serum within the week and 
+attrbiute them to the address that posted the order. The tracker will aggregate 
+the contract premiums each address sold and use that aggregate over the total premiums 
+for all addresses that week to determine an addresses share of the _Weekly Reward Pool_.
+
+For Example: 
+
+| Address | Total Premiums | Share of Reward Pool |
+| ------- | -------------- | -------------------- |
+| address_1 | USDC 500,000 | 66.6% | 
+| address_2 | USDC 230,000 | 30.666% |
+| address_3 | USDC 10,000 | 1.33% |
+| address_4 | USDC 1,000 | 0.13% |
+| address_5 | USDC 9,000 | 1.2% |
+| Total | USDC 750,000 | 100% |
 
 ## Marketing
+
+Pay attention to our [Twitter](https://twitter.com/PsyOptions). We will be running
+campaigns where you can get rewarded in PSY.
+
