@@ -45,7 +45,7 @@ PsyOptions should be.
 
 If you want to get involved and help improve PsyOptions, please join the 
 [discord](https://discord.com/invite/MgDdJKgZJc) and express your interest in becoming a 
-PsyOptions _Thought Leader_. If you spur some great converstaions you could land yourself in a private 
+PsyOptions _DeFi Thought Leader_. If you spur some great converstaions you could land yourself in a private 
 channel with other leaders and a nice chunk of PSY!
 
 ## Liquidity Mining
