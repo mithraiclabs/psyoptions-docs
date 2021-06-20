@@ -35,7 +35,7 @@ bounties@psyoptions.io so the list can update accordingly!
 
 | Bounty Title | Short Description | More Info | PSY Allocated |
 | ------------ | ----------------- | --------- | :-----------: |
-| Coming soon | Coming soon | Coming soon | 10,000 |
+| Borrow on the Writer Token | A borrow lending protocol could allow the Writer Token to used as collateral, so option writers can get back some of their underlying. | Coming soon | 10,000 |
 
 ## DeFi Thought Leaders
 The core contributors are incredible engineers, but are all retail traders. There are ideas 
