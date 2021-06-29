@@ -35,7 +35,8 @@ bounties@psyoptions.io so the list can update accordingly!
 
 | Bounty Title | Short Description | More Info | PSY Allocated |
 | ------------ | ----------------- | --------- | :-----------: |
-| Borrow on the Writer Token | A borrow lending protocol could allow the Writer Token to used as collateral, so option writers can get back some of their underlying. | Coming soon | 10,000 |
+| Borrow on the Writer Token | A borrow lending protocol could allow the Writer Token to used as collateral, so option writers can get back some of their underlying. | Detailed ticket coming soon | TBD |
+| Multi-legged strategy UI component | A react component that leverages the PsyOptions bindings to display payoffs and execute multi-legged strategies | Detailed ticket coming soon | TBD | 
 
 ## DeFi Thought Leaders
 The core contributors are incredible engineers, but are all retail traders. There are ideas 
@@ -60,8 +61,8 @@ trading on Serum).
 
 ### Phase 1
 Duration: about 3 months (13 weeks) after mainnet beta launch<br />
-Total Supply: 2,000,000<br />
-Weekly Reward Pool: ~153,846<br />
+Total Supply: TBD<br />
+Weekly Reward Pool: TBD<br />
 
 At the end of every week a snapshot will be taken from the PsyOptions Market Tracker. It 
 will detail all contracts that trades on Serum within the week and 
