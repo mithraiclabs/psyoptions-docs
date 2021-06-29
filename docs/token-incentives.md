@@ -5,6 +5,11 @@ sidebar_label: token-incentives
 slug: /psy-token
 ---
 
+_**NOTE: NO PSY TOKEN HAS BEEN MINTED OR IS CIRCULATING AT THE MOMENT. 
+ANY TOKEN CURRENTLY CLAIMING TO BE PSY IS A SCAM**_
+
+_**THE INFORMATION LAID OUT HERE IS TENTATIVE PLANS LAID OUT FOR A FUTURE TOKEN**_
+
 This document does its best to explain where PsyOptions needs community contributors 
 and how those contributions are rewarded.
 
