@@ -8,7 +8,7 @@ slug: /psy-token
 _**NOTE: NO PSY TOKEN HAS BEEN MINTED OR IS CIRCULATING AT THE MOMENT. 
 ANY TOKEN CURRENTLY CLAIMING TO BE PSY IS A SCAM**_
 
-_**THE INFORMATION LAID OUT HERE IS TENTATIVE PLANS LAID OUT FOR A FUTURE TOKEN**_
+_**THE INFORMATION LAID OUT HERE ARE TENTATIVE PLANS FOR A FUTURE TOKEN**_
 
 This document does its best to explain where PsyOptions needs community contributors 
 and how those contributions are rewarded.
@@ -22,7 +22,7 @@ Contribute code, get PSY!
 
 ### Grants
 If you have an idea for some sort of protocol, UI Component, or anything else that is useful
-for the PsyOptions ecosystem please reach out to grants@psyoptions.io. PsyOptions is actively 
+for the PsyOptions ecosystem please reach out to developers@psyoptions.io. PsyOptions is actively 
 looking to partner and reward developers that want to build with us. 
 
 #### Examples
@@ -36,7 +36,7 @@ An AMM that uses contracts from PsyOptions.
 ### Bounties
 Below is a list of bounties PsyOptions is offering for developers in our community to help out. 
 If you're interested in working on, have completed one, etc. please reachout to 
-bounties@psyoptions.io so the list can update accordingly!
+developers@psyoptions.io so the list can update accordingly!
 
 | Bounty Title | Short Description | More Info | PSY Allocated |
 | ------------ | ----------------- | --------- | :-----------: |
@@ -52,7 +52,7 @@ PsyOptions should be.
 If you want to get involved and help improve PsyOptions, please join the 
 [discord](https://discord.com/invite/MgDdJKgZJc) and express your interest in becoming a 
 PsyOptions _DeFi Thought Leader_. If you spur some great converstaions you could land yourself in a private 
-channel with other leaders and a nice chunk of PSY!
+channel with other leaders!
 
 ## Liquidity Mining
 The PsyOptions liquidity mining program is focused on incentivizing market makers to 
@@ -65,12 +65,12 @@ where the base currency is minted from the PsyOptions protocol (i.e. a PsyOption
 trading on Serum).
 
 ### Phase 1
-Duration: about 3 months (13 weeks) after mainnet beta launch<br />
-Total Supply: TBD<br />
-Weekly Reward Pool: TBD<br />
+Duration: about 12 months (1 year) after mainnet beta launch<br />
+Total Supply: TBD (PSY)<br />
+Weekly Reward Pool: TBD (PSY)<br />
 
 At the end of every week a snapshot will be taken from the PsyOptions Market Tracker. It 
-will detail all contracts that trades on Serum within the week and 
+will detail all contracts that traded on Serum within the week and 
 attrbiute them to the address that posted the order. The tracker will aggregate 
 the contract premiums each address sold and use that aggregate over the total premiums 
 for all addresses that week to determine an addresses share of the _Weekly Reward Pool_.
