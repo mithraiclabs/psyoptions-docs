@@ -59,7 +59,7 @@ The PsyOptions liquidity mining program is focused on incentivizing market maker
 provide liquidity on Serum’s order books at the best possible prices. Those that 
 price well and have orders filled will receive PSY tokens.
 
-PsyOptions is a complimentary protocol to Serum, so it has no hooks into actions that Serum handles.
+PsyOptions is a complimentary protocol to Serum, so it has no hooks into Serum transactions.
 Beacuse of that, the PsyOptions Market Tracker will be used to monitor all Serum markets 
 where the base currency is minted from the PsyOptions protocol (i.e. a PsyOptions option contract 
 trading on Serum).
