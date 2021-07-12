@@ -40,7 +40,7 @@ developers@psyoptions.io so the list can update accordingly!
 
 | Bounty Title | Short Description | More Info | PSY Allocated |
 | ------------ | ----------------- | --------- | :-----------: |
-| Borrow on the Writer Token | A borrow lending protocol could allow the Writer Token to used as collateral, so option writers can get back some of their underlying. | Detailed ticket coming soon | TBD |
+| Borrow on the Writer Token | A borrow lending protocol could allow the Writer Token to be used as collateral, so option writers can get back some of their underlying. | Detailed ticket coming soon | TBD |
 | Multi-legged strategy UI component | A react component that leverages the PsyOptions bindings to display payoffs and execute multi-legged strategies | Detailed ticket coming soon | TBD | 
 
 ## DeFi Thought Leaders
@@ -90,4 +90,3 @@ For Example:
 
 Pay attention to our [Twitter](https://twitter.com/PsyOptions). We will be running
 campaigns where you can get rewarded in PSY.
-
