@@ -88,3 +88,68 @@ So to generate yield from writing a contract, you would sell the OptionToken.
 That could be done OTC and transfered, on a Seurm market, or any other venue that creates
 and exchange for a market's SPLs. 
 
+## Exercising a contract
+[TODO image of the exercise row]
+
+With the OptionToken we have the ability to exercise the contract with the use of the 
+`ExerciseCoveredCall` instruction. To exercise we must post the OptionToken held and
+the `quote_amount_per_contract` plus a 5bps fee. This small fee will got to the PsyOptions 
+treasury and will be adjustable (or removable) via governance. So the total quote 
+asset that must be posted is 
+
+`quote_assets_required = quote_amount_per_contract + (quote_amount_per_contract * 0.0005)`
+
+With the correct amount posted, the protocol burns the OptionToken, transfers 
+`quote_amount_per_contract` to the market's Quote Asset Pool, and transfers 
+`underlying_amount_per_contract` to the exerciser's address. 
+
+
+Now that someone has exercised, we'll cover how a contract writer can claim those assets.
+
+## Extracting assets from an exercised contract
+[TODO image of a imbalanced pools]
+
+Economic theories have proven that it is not beneficial to exercise a contract early. But
+this is not TradFi. The composability of PsyOptions American V1 provides many use cases 
+outside of pure volatility trading, portfolio hedging, etc. where exercising early will
+most certainly happen. Lets take protocol XYZ that is running a liquidity mining program
+that incentivized new liquidity providers with At The Money (ATM) contracts that expire
+in 10 years. As long as project XYZ continues to grow, these contract holders will most
+cetainly exercise early. 
+
+Now when that early exercise occurs, the contract writer is able to claim the quote assets 
+as soon as they are available. To do so, the contract writer must use the 
+`ExchangeWriterTokenForQuote` instruction. The user most post the WriterToken. The 
+protocol will burn the WriterToken and transfer the `quote_amount_per_contract` to the
+writer's wallet. 
+
+A few items to note. First, this instruction can be called at any point in time, so long
+as there are enough quote assets in the Quote Asset Pool. Second, this instruction acts 
+on a **first come, first serve basis**. All OptionTokens and WriterTokens for a given 
+market are respectively fungible (i.e. Any OptionToken is the same as another for the 
+given market. The same is true for the WriterToken.). So as soon as someone exercises an 
+OptionContract **anyone holding a WriterToken for that market has a claim on the quote assets**.
+
+## Getting your underlying back after expiration
+[TODO image of full underlying asset pool, no quote]
+
+After expiration, a contract writer has a claim on their original underlying assets that they 
+posted to write the contract. **Only after expiration** can a WriterToken sent the protocol
+to be burned in exchange for the `underlying_amount_per_contract`. This is done through the 
+`ClosePostExpiration` instruction.
+
+## Closing a position pre-expiration
+
+What happens if you wrote too many contracts at once? Or your exposure has changed and you need 
+to close your position? This is where the `ClosePosition` instruction comes in. This instruction 
+**requires you to have both the OptionToken and the WriterToken**. At anypoint (pre or post 
+expiration) if a wallet calls this instruction with the correct token pair preset, it will 
+receive the `underlying_amount_per_contract`. The protocol checks and burns both tokens and 
+then transfersthe underlying assets from the pool to the wallet. 
+
+If you sold the OptionToken and would like to close your position, you will have to go to a venue
+that trades/sells the correct OptionToken and 
+
+
+
+
