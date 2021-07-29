@@ -8,7 +8,7 @@ module.exports = {
       Clients: [
         "client-integration-overview",
         {
-          JavaScript: ["javascript-gists", "javascript-functions"],
+          JavaScript: ["javascript-api"],
         },
         {
           Rust: ["rust-start"],
