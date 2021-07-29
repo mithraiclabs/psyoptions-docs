@@ -10,7 +10,7 @@ happening under the hood. Here we will do our best to break down each interactio
 may make with the protocol and what's happening.
 
 ## Initialize new options market
-[TODO get image of the initialize market component to explain the parameters]
+![initialize market](/img/how-it-works/initialize_market_page.png)
 
 The protocol is designed to be a primitive, so it makes very little assumptions about options,
 how they should be traded, priced, etc. The protocol itself, also makes no assumptions on what
@@ -52,7 +52,7 @@ market. When someone mints an option contract, their collateral is stored in the
 on that next.
 
 ## Minting an option
-[TODO show image of mint component]
+<!-- TODO show image of mint component -->
 
 Without a doubt, the most important and widely used instruction of the protocol. When you want to 
 mint a contract for a given market you need the `MintCoveredCall` instruction. It is 
@@ -89,7 +89,7 @@ That could be done OTC and transfered, on a Seurm market, or any other venue tha
 and exchange for a market's SPLs. 
 
 ## Exercising a contract
-[TODO image of the exercise row]
+<!-- TODO image of the exercise row -->
 
 With the OptionToken we have the ability to exercise the contract with the use of the 
 `ExerciseCoveredCall` instruction. To exercise we must post the OptionToken held and
@@ -107,7 +107,7 @@ With the correct amount posted, the protocol burns the OptionToken, transfers
 Now that someone has exercised, we'll cover how a contract writer can claim those assets.
 
 ## Extracting assets from an exercised contract
-[TODO image of a imbalanced pools]
+<!-- TODO image of a imbalanced pools -->
 
 Economic theories have proven that it is not beneficial to exercise a contract early. But
 this is not TradFi. The composability of PsyOptions American V1 provides many use cases 
@@ -131,7 +131,7 @@ given market. The same is true for the WriterToken.). So as soon as someone exer
 OptionContract **anyone holding a WriterToken for that market has a claim on the quote assets**.
 
 ## Getting your underlying back after expiration
-[TODO image of full underlying asset pool, no quote]
+<!-- TODO image of full underlying asset pool, no quote -->
 
 After expiration, a contract writer has a claim on their original underlying assets that they 
 posted to write the contract. **Only after expiration** can a WriterToken sent the protocol
