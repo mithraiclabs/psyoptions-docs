@@ -28,6 +28,12 @@ yarn crowdin upload
 yarn crowdin download
 ```
 
+### Run local site with different locale
+
+```console
+yarn start --locale fr
+```
+
 ## Build
 
 ```console
