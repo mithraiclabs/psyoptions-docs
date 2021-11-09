@@ -93,7 +93,7 @@ and exchange for a market's SPLs.
 
 With the OptionToken we have the ability to exercise the contract with the use of the 
 `ExerciseCoveredCall` instruction. To exercise we must post the OptionToken held and
-the `quote_amount_per_contract` plus a 5bps fee. This small fee will got to the PsyOptions 
+the `quote_amount_per_contract` plus a 5bps fee. This small fee will go to the PsyOptions 
 treasury and will be adjustable (or removable) via governance. So the total quote 
 asset that must be posted is 
 
@@ -112,7 +112,7 @@ Now that someone has exercised, we'll cover how a contract writer can claim thos
 Economic theories have proven that it is not beneficial to exercise a contract early. But
 this is not TradFi. The composability of PsyOptions American V1 provides many use cases 
 outside of pure volatility trading, portfolio hedging, etc. where exercising early will
-most certainly happen. Lets take protocol XYZ that is running a liquidity mining program
+most certainly happen. Let's take protocol XYZ that is running a liquidity mining program
 that incentivized new liquidity providers with At The Money (ATM) contracts that expire
 in 10 years. As long as project XYZ continues to grow, these contract holders will most
 cetainly exercise early. 
@@ -145,7 +145,7 @@ to close your position? This is where the `ClosePosition` instruction comes in. 
 **requires you to have both the OptionToken and the WriterToken**. At anypoint (pre or post 
 expiration) if a wallet calls this instruction with the correct token pair preset, it will 
 receive the `underlying_amount_per_contract`. The protocol checks and burns both tokens and 
-then transfersthe underlying assets from the pool to the wallet. 
+then transfers the underlying assets from the pool to the wallet. 
 
 If you sold the OptionToken and would like to close your position, you will have to go to a venue
 that trades/sells the correct OptionToken and purchase one there.
