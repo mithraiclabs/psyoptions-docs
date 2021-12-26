@@ -67,7 +67,7 @@ governance. So the total underlying assets required to mint 1 contract is:
 
 `underlying_assets_required = underlying_amount_per_contract + (underlying_amount_per_contract * 0.0005)`
 
-These unserlying assets are then stored in the option markets' _Underlying Asset Pool_. If 
+These underlying assets are then stored in the option markets' _Underlying Asset Pool_. If 
 the transfer to the pool succeeds (i.e. enough underlying was posted), then the protocol 
 mints the user 2 tokens, the **OptionToken** and the **WriterToken**. 
 
@@ -134,8 +134,8 @@ OptionContract **anyone holding a WriterToken for that market has a claim on the
 <!-- TODO image of full underlying asset pool, no quote -->
 
 After expiration, a contract writer has a claim on their original underlying assets that they 
-posted to write the contract. **Only after expiration** can a WriterToken sent the protocol
-to be burned in exchange for the `underlying_amount_per_contract`. This is done through the 
+posted to write the contract. **Only after expiration** can a WriterToken sent to the protocol
+be burned in exchange for the `underlying_amount_per_contract`. This is done through the 
 `ClosePostExpiration` instruction.
 
 ## Closing a position pre-expiration
