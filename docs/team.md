@@ -11,7 +11,7 @@ slug: /contributors
 
 <img src="/img/team_pics/tommy.jpg" alt="Tommy" height="150" width="150" />
 
-Tommy is an original contributor to PsyOptions, as he was a part of the team that won the Solana x Serum DeFi Hackathon. He brings over 10 years of engineering experience to the team, and has been building on Solana since the early days. He is focussed primarily on protocol development. 
+Tommy is an original contributor to PsyOptions, as he was a part of the team that won the Solana x Serum DeFi Hackathon. He brings over 10 years of engineering experience to the team, and has been building on Solana since the early days. He is focused primarily on protocol development. 
 <strong>Connect</strong>
 <ul>
     <li><a href="https://twitter.com/tomjohn1028">Twitter</a></li>
@@ -20,11 +20,23 @@ Tommy is an original contributor to PsyOptions, as he was a part of the team tha
     <li><a href="https://github.com/tomjohn1028">Github</a></li>
 </ul>
 
+### Spencer Farrar
+
+<img src="/img/team_pics/spencer.jpg" alt="Spencer" height="150" width="150" />
+
+Spencer previously worked at Bienville Capital, an asset manager with $4bn AUM, leading their crypto focused fund, and has been in the crypto industry for over five years. Prior to this, he was working at Velocity Financial supporting originations and blockchain research. He is focused on leading strategy and business development at PsyOptions. 
+<strong>Connect</strong>
+<ul>
+    <li><a href="https://twitter.com/gm_wagmi">Twitter</a></li>
+    <li>Discord: SF#1585</li>
+    <li>Telegram: sfcrypto</li>
+</ul>
+
 ### Taylor Johnson
 
 <img src="/img/team_pics/taylor.jpeg" alt="Taylor" height="150" width="150" />
 
-Taylor is another member of the original hackathon team that won the Solana x Serum DeFi hackathon, and alongside his brother, has been chewing glass in the Solana Ecosystem even before Anchor was around. He brings over 10 years of engineering experience to the team, and is focussed primarily on front-end develpment. 
+Taylor is another member of the original hackathon team that won the Solana x Serum DeFi hackathon, and alongside his brother, has been chewing glass in the Solana Ecosystem even before Anchor was around. He brings over 10 years of engineering experience to the team, and is focused primarily on front-end development. 
 <strong>Connect</strong>
 <ul>
     <li><a href="https://twitter.com/NFTtaylor">Twitter</a></li>
@@ -161,4 +173,3 @@ International Community Moderator.
 <ul>
     <li>Discord: Juna#2819</li>
 </ul>
-

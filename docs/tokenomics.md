@@ -60,8 +60,9 @@ Yes, Team and Private Round coins are vested for four years with a one year clif
 #### Where Can I Get PSY?
 PSY is currently available on the following exchanges, with more to come: 
 <ul>
-    <li>FTX</li>
-    <li>Gate</li>
+    <li><a href="https://ftx.com/trade/PSY/USD">FTX</a></li>
+    <li><a href="https://www.gate.io/trade/PSY_USDT">Gate</a></li>
+    <li><a href="https://ascendex.com/en/cashtrade-spottrading/usdt/psy">AscendEX</a></li>
 </ul>
 
 #### Can I Stake PSY?
