@@ -57,6 +57,17 @@ Primarily focussed on protocol development at PsyOptions. He holds a doctorate i
     <li><a href="https://github.com/jgur-psyops">Github</a></li>
 </ul>
 
+### Charlie Bullman
+
+<img src="/img/team_pics/charlie.jpg" alt="Charlie" height="150" width="150" />
+
+Charlie is a product designer focused on improving the user experience across digital products. Having worked in the digital asset space previously, the opportunity to work with PsyOptions to provide a more transparent and democratised financial system was hugely exciting. He is focused on humanising the technology through design in order to streamline the overall user experience.
+
+<strong>Connect</strong>
+<ul>
+    <li>Discord: Charlie Bullman#7105</li>
+</ul>
+
 ### T-Wall
 
 <img src="/img/team_pics/twall.jpeg" alt="T-Wall" height="150" width="150" />
