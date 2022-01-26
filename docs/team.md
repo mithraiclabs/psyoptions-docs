@@ -57,6 +57,25 @@ Primarily focussed on protocol development at PsyOptions. He holds a doctorate i
     <li><a href="https://github.com/jgur-psyops">Github</a></li>
 </ul>
 
+### Haroon 
+
+<img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
+
+Haroon is a frontend specialized full stack web developer focused on
+expanding his skills, and creating a productive and impactful
+experience with passion and purpose. Haroon is hoping to fit into a team
+where he can contribute and challenge himself every day. He has
+over a decade of experience in his field from a freelancer usually
+helping startups learn to be a one-man business becoming
+incredibly productive, to working with agencies and large
+companies. He enjoy's independently organized work environments as
+well as being involved in a concerted team effort to drive success.
+
+<strong>Connect</strong>
+<ul>
+    <li>haroonpsyoptions#0175</li>
+</ul>
+
 ### Charlie Bullman
 
 <img src="/img/team_pics/charlie.jpg" alt="Charlie" height="150" width="150" />
