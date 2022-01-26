@@ -7,7 +7,9 @@ slug: /american-v1/how-it-works
 
 To truly understand how the protocol and platform works, one needs to understand what's 
 happening under the hood. Here we will do our best to break down each interaction an entity
-may make with the protocol and what's happening.
+may make with the protocol and what's happening. 
+
+Note: As an open source protocol, anyone can fork and/or use the American v1 code. Usage of this protocol does not constitute any sort of affiliation or partnership with PsyOptions. 
 
 ## Initialize new options market
 ![initialize market](/img/how-it-works/initialize_market_page.png)
