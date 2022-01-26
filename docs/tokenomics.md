@@ -7,7 +7,7 @@ slug: /psy-token/tokenomics
 
 PSY is purely a governance token that manages the smart contracts, and treasury of tokens through on-chain voting. Proposals will be made on-chain, and voted on with the PSY token. 
 
-The PsyOptions protocol does generate fees from minting and exercising, volume on permissioned Serum markets, and affiliate fees from the user interface integrated with Serum order books. These fees are deposited into an address controlled by the governance protocol, with which PSY tokens can make proposals and cast votes.
+The PsyOptions protocol will generate revenue from future fees through partner DOVs, and future trading protocols. Additionally, the PsyOptions protocol generates revenue through fees from volume traded on permissioned Serum markets. These fees are deposited into an address controlled by the governance protocol, with which PSY tokens can make proposals and cast votes.
 
 ### The PSY Token
 
