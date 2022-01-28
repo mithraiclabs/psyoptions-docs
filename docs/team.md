@@ -57,6 +57,18 @@ Primarily focussed on protocol development at PsyOptions. He holds a doctorate i
     <li><a href="https://github.com/jgur-psyops">Github</a></li>
 </ul>
 
+### Jerry 
+
+<img src="/img/team_pics/jerry.png" alt="Jerry" height="150" width="150" />
+
+Jerry is a core contributor focusing on expanding the portfolio of structured products in the PSY Ecosystem. He brings over 6 years of full-stack engineering experience across a range of startups and leading tech companies.
+<strong>Connect</strong>
+<ul>
+    <li>Discord: jerry#0860 </li>
+    <li>Telegram: iurage</li>
+    <li><a href="https://twitter.com/iurage7">Twitter</a></li>
+</ul>
+
 ### Haroon 
 
 <img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
