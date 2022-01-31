@@ -57,6 +57,60 @@ Primarily focussed on protocol development at PsyOptions. He holds a doctorate i
     <li><a href="https://github.com/jgur-psyops">Github</a></li>
 </ul>
 
+### Jerry 
+
+<img src="/img/team_pics/jerry.png" alt="Jerry" height="150" width="150" />
+
+Jerry is a core contributor focusing on expanding the portfolio of structured products in the PSY Ecosystem. He brings over 6 years of full-stack engineering experience across a range of startups and leading tech companies.
+<strong>Connect</strong>
+<ul>
+    <li>Discord: jerry#0860 </li>
+    <li>Telegram: iurage</li>
+    <li><a href="https://twitter.com/iurage7">Twitter</a></li>
+</ul>
+
+### LaikaSoul
+
+<img src="/img/team_pics/laikasoul.jpg" alt="LaikaSoul" height="150" width="150" />
+
+LaikaSoul is a core contributor of PSY Finance, focusing on scaling structured products to the next billion users. He has over 10 years of experience in product, business development, and scaliing startups. 
+<strong>Connect</strong>
+<ul>
+    <li>Discord: LaikaSoul#4252</li>
+    <li>Telegram: thesoulstriker</li>
+    <li><a href="https://twitter.com/LaikaSoul?s=20">Twitter</a></li>
+</ul>
+
+### Haroon 
+
+<img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
+
+Haroon is a frontend specialized full stack web developer focused on
+expanding his skills, and creating a productive and impactful
+experience with passion and purpose. Haroon is hoping to fit into a team
+where he can contribute and challenge himself every day. He has
+over a decade of experience in his field from a freelancer usually
+helping startups learn to be a one-man business becoming
+incredibly productive, to working with agencies and large
+companies. He enjoy's independently organized work environments as
+well as being involved in a concerted team effort to drive success.
+
+<strong>Connect</strong>
+<ul>
+    <li>haroonpsyoptions#0175</li>
+</ul>
+
+### Charlie Bullman
+
+<img src="/img/team_pics/charlie.jpg" alt="Charlie" height="150" width="150" />
+
+Charlie is a product designer focused on improving the user experience across digital products. Having worked in the digital asset space previously, the opportunity to work with PsyOptions to provide a more transparent and democratised financial system was hugely exciting. He is focused on humanising the technology through design in order to streamline the overall user experience.
+
+<strong>Connect</strong>
+<ul>
+    <li>Discord: Charlie Bullman#7105</li>
+</ul>
+
 ### T-Wall
 
 <img src="/img/team_pics/twall.jpeg" alt="T-Wall" height="150" width="150" />
