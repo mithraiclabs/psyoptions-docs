@@ -69,6 +69,18 @@ Jerry is a core contributor focusing on expanding the portfolio of structured pr
     <li><a href="https://twitter.com/iurage7">Twitter</a></li>
 </ul>
 
+### LaikaSoul
+
+<img src="/img/team_pics/laikasoul.jpg" alt="LaikaSoul" height="150" width="150" />
+
+LaikaSoul is a core contributor of PSY Finance, focusing on scaling structured products to the next billion users. He has over 10 years of experience in product, business development, and scaliing startups. 
+<strong>Connect</strong>
+<ul>
+    <li>Discord: LaikaSoul#4252</li>
+    <li>Telegram: thesoulstriker</li>
+    <li><a href="https://twitter.com/LaikaSoul?s=20">Twitter</a></li>
+</ul>
+
 ### Haroon 
 
 <img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
