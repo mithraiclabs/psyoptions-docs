@@ -9,6 +9,8 @@ PSY is purely a governance token that manages the smart contracts, and treasury 
 
 The PsyOptions protocol will generate revenue from future fees through partner DOVs, and future trading protocols. Additionally, the PsyOptions protocol generates revenue through fees from volume traded on permissioned Serum markets. These fees are deposited into an address controlled by the governance protocol, with which PSY tokens can make proposals and cast votes.
 
+<strong>Note: The PSY token is not available in the United States or other prohibited jurisdictions.</strong>
+
 ### The PSY Token
 
 <ul>
@@ -59,10 +61,18 @@ Yes, Team and Private Round coins are vested for four years with a one year clif
 
 #### Where Can I Get PSY?
 PSY is currently available on the following exchanges, with more to come: 
+
+<strong>Centralized Exchanges</strong> 
 <ul>
     <li><a href="https://ftx.com/trade/PSY/USD">FTX</a></li>
     <li><a href="https://www.gate.io/trade/PSY_USDT">Gate</a></li>
     <li><a href="https://ascendex.com/en/cashtrade-spottrading/usdt/psy">AscendEX</a></li>
+</ul>
+
+<strong>Decentralized Exchanges</strong>
+<ul>
+    <li><a href="">Serum</a></li>
+    <li><a href="https://dex.raydium.io/#/market/9WDPi1uZVxBwZY4NXy7A3nGfxAzxvNaS56iHk3cBhQ3U">Raydium</a></li>
 </ul>
 
 #### Can I Stake PSY?
