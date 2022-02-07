@@ -97,7 +97,19 @@ well as being involved in a concerted team effort to drive success.
 
 <strong>Connect</strong>
 <ul>
-    <li>haroonpsyoptions#0175</li>
+    <li>Discord: haroonpsyoptions#0175</li>
+</ul>
+
+### Spencer Harris
+
+<img src="/img/team_pics/spencer_h.jpg" alt="Spencer Harris" height="150" width="150" />
+
+Spencer has been a software engineer for over 5 years. He enjoys reading, writing, photography, music, food, hunting, and Jiu Jitsu. Spencer will be focusing primarily on front end development at PsyOptions.
+
+<strong>Connect</strong>
+<ul>
+    <li>Discord: SpencerPsy#0721</li>
+
 </ul>
 
 ### Charlie Bullman
