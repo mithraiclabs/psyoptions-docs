@@ -6,6 +6,7 @@ module.exports = {
       "Amercian Style Protocol (V1)": ["arch-option-types", "arch-put-call", "american-how-it-works"],
       "European Style Protocol (V1)": ["european-how-it-works"],
       "Program Integration": ["program-integration-start"],
+      "Options Liquidity Mining": ["liquidity-mining"],
       Clients: [
         "client-integration-overview",
         {
