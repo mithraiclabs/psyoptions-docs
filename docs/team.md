@@ -109,6 +109,7 @@ Spencer has been a software engineer for over 5 years. He enjoys reading, writin
 <strong>Connect</strong>
 <ul>
     <li>Discord: SpencerPsy#0721</li>
+
 </ul>
 
 ### Charlie Bullman
