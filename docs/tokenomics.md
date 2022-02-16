@@ -71,8 +71,8 @@ PSY is currently available on the following exchanges, with more to come:
 
 <strong>Decentralized Exchanges</strong>
 <ul>
-    <li><a href="">Serum</a></li>
     <li><a href="https://dex.raydium.io/#/market/9WDPi1uZVxBwZY4NXy7A3nGfxAzxvNaS56iHk3cBhQ3U">Raydium</a></li>
+    <li><a href="https://app.atrix.finance/#/swap?to=PsyFiqqjiv41G7o5SMRzDJCu4psptThNR2GtfeGHfSq&from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v">Atrix</a></li>
 </ul>
 
 #### Can I Stake PSY?

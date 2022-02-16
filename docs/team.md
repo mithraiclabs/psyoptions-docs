@@ -100,6 +100,7 @@ well as being involved in a concerted team effort to drive success.
     <li>Discord: haroonpsyoptions#0175</li>
 </ul>
 
+<!--
 ### Spencer Harris
 
 <img src="/img/team_pics/spencer_h.jpg" alt="Spencer Harris" height="150" width="150" />
@@ -110,7 +111,7 @@ Spencer has been a software engineer for over 5 years. He enjoys reading, writin
 <ul>
     <li>Discord: SpencerPsy#0721</li>
 
-</ul>
+</ul> -->
 
 ### Charlie Bullman
 
