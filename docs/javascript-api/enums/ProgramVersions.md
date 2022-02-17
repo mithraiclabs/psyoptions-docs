@@ -16,7 +16,7 @@ An enumeration to keep track of the different program versions released.
 
 #### Defined in
 
-[types.ts:47](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/types.ts#L47)
+[types.ts:47](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/types.ts#L47)
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 #### Defined in
 
-[types.ts:48](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/types.ts#L48)
+[types.ts:48](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/types.ts#L48)

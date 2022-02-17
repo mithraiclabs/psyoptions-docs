@@ -26,7 +26,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[serumUtils.ts:201](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L201)
+[serumUtils.ts:201](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L201)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[serumUtils.ts:177](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L177)
+[serumUtils.ts:177](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L177)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[serumUtils.ts:215](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L215)
+[serumUtils.ts:215](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L215)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[serumUtils.ts:187](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L187)
+[serumUtils.ts:187](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L187)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[serumUtils.ts:162](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L162)
+[serumUtils.ts:162](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L162)
 
 ___
 
@@ -139,7 +139,7 @@ address.
 
 #### Defined in
 
-[serumUtils.ts:19](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L19)
+[serumUtils.ts:19](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L19)
 
 ___
 
@@ -165,7 +165,7 @@ Load all the open orders for a user based on the Serum DEX and the option market
 
 #### Defined in
 
-[serumUtils.ts:74](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L74)
+[serumUtils.ts:74](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L74)
 
 ___
 
@@ -191,4 +191,4 @@ market authority, and authority bump seed.
 
 #### Defined in
 
-[serumUtils.ts:237](https://github.com/mithraiclabs/psyoptions-ts/blob/ae06d0d/packages/psy-american/src/serumUtils.ts#L237)
+[serumUtils.ts:237](https://github.com/mithraiclabs/psyoptions-ts/blob/78e7276/packages/psy-american/src/serumUtils.ts#L237)
