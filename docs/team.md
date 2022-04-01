@@ -141,7 +141,7 @@ Works within PsyOptions as a community manager to help support users with everyd
 
 <img src="/img/team_pics/stockmart.jpeg" alt="stockmart" height="150" width="150" />
 
-The resident DeFi Degen, stockmart is primarily focused on research and governance at PsyOptions.
+The resident DeFi Degen, stockmart is primarily focused on research and growth at PsyOptions.
 <strong>Connect</strong>
 <ul>
     <li><a href="https://twitter.com/stockmart_">Twitter</a></li>
