@@ -81,6 +81,7 @@ LaikaSoul is a core contributor of PSY Finance, focusing on scaling structured p
     <li><a href="https://twitter.com/LaikaSoul?s=20">Twitter</a></li>
 </ul>
 
+<!--
 ### Haroon 
 
 <img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
@@ -98,7 +99,7 @@ well as being involved in a concerted team effort to drive success.
 <strong>Connect</strong>
 <ul>
     <li>Discord: haroonpsyoptions#0175</li>
-</ul>
+</ul> -->
 
 <!--
 ### Spencer Harris
