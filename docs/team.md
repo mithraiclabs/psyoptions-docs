@@ -24,7 +24,7 @@ Tommy is an original contributor to PsyOptions, as he was a part of the team tha
 
 <img src="/img/team_pics/spencer.jpg" alt="Spencer" height="150" width="150" />
 
-Spencer previously worked at Bienville Capital, an asset manager with $4bn AUM, leading their crypto focused fund, and has been in the crypto industry for over five years. Prior to this, he was working at Velocity Financial supporting originations and blockchain research. He is focused on leading strategy and business development at PsyOptions. 
+Spencer previously ran crypto investing for a US$4 billion asset manager. He has been in the crypto industry for over five years. He's focused on leading strategy and business development at PsyOptions. 
 <strong>Connect</strong>
 <ul>
     <li><a href="https://twitter.com/gm_wagmi">Twitter</a></li>
@@ -81,6 +81,7 @@ LaikaSoul is a core contributor of PSY Finance, focusing on scaling structured p
     <li><a href="https://twitter.com/LaikaSoul?s=20">Twitter</a></li>
 </ul>
 
+<!--
 ### Haroon 
 
 <img src="/img/team_pics/haroon.jpg" alt="Haroon" height="150" width="150" />
@@ -98,7 +99,7 @@ well as being involved in a concerted team effort to drive success.
 <strong>Connect</strong>
 <ul>
     <li>Discord: haroonpsyoptions#0175</li>
-</ul>
+</ul> -->
 
 <!--
 ### Spencer Harris
@@ -140,7 +141,7 @@ Works within PsyOptions as a community manager to help support users with everyd
 
 <img src="/img/team_pics/stockmart.jpeg" alt="stockmart" height="150" width="150" />
 
-The resident DeFi Degen, stockmart is primarily focused on research and governance at PsyOptions.
+The resident DeFi Degen, stockmart is primarily focused on research and growth at PsyOptions.
 <strong>Connect</strong>
 <ul>
     <li><a href="https://twitter.com/stockmart_">Twitter</a></li>

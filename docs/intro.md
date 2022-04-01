@@ -5,12 +5,13 @@ sidebar_label: Introduction
 slug: /
 ---
 
-PsyOptions is an American style options protocol built on the Solana blockchain.
-The principles that have guided the architecture and development of the core protocol are flexibility and composability.
-It is completely trustless. The core protocol makes no assumptions on how the options should be traded or priced.
-Options are represented as SPL Tokens, which means they can be traded on any DEX that supports SPL Tokens.
+PsyOptions aims to bring a TradFi feel to DeFi by building a decentralized, permissionless, and community-owned financial services platform. Our vision is to not only provide our users with a decentralized options trading platform, but to become the de facto on-chain financial services platform for DeFi users across the globe. Our initial options protocols are simply the first step along the path of building towards this goal.
 
-V1 supports 100% collateralized, asset settled, covered calls and secured puts.
+## Our Product Offering
+<ul>
+    <li><a href ="https://www.psyoptions.io/">PsyOptions - On-chain Options for SOL, BTC, and ETH</a></li>
+    <li><a href="https://app.psyfi.io/">PsyFinance - Automated Option Strategy Vaults</a></li>
+</ul>
 
 ## Architecture {#architecture}
 
